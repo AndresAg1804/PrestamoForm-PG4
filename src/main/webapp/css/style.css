@@ -1,0 +1,35 @@
+.encabezado{
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.banco{
+    display: inline-block;
+    place-items: center;
+}
+
+.banco-nombre{
+    width: 70%;
+    padding-right: 9em;
+    font-size: x-large;
+    font-style: italic;
+    color: black;
+}
+
+.banco-logo{
+    width: 50%;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+.datos{
+    display: inline-block;
+    place-items: center;
+    background-color: lightgray;
+}
+
+.datos-cliente{
+    width: 50%;
+    padding-right: 9em;
+    color: black;
+}
