@@ -26,10 +26,13 @@
     display: inline-block;
     text-align: center;
     background-color: lightgray;
+    vertical-align: center;
+    font-size: large;
+    width: 100%;
 }
 
 .datos-cliente{
-    width: 50%;
+    width: 100%;
     padding-right: 9em;
     color: black;
     place-items: center;
