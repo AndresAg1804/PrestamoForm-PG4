@@ -24,7 +24,7 @@
 
 .datos{
     display: inline-block;
-    place-items: center;
+    text-align: center;
     background-color: lightgray;
 }
 
@@ -32,4 +32,5 @@
     width: 50%;
     padding-right: 9em;
     color: black;
+    place-items: center;
 }
